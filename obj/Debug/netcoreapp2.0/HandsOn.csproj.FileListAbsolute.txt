@@ -1,0 +1,11 @@
+c:\Users\Martin\Desktop\HandsOn\bin\Debug\netcoreapp2.0\HandsOn.deps.json
+c:\Users\Martin\Desktop\HandsOn\bin\Debug\netcoreapp2.0\HandsOn.runtimeconfig.json
+c:\Users\Martin\Desktop\HandsOn\bin\Debug\netcoreapp2.0\HandsOn.runtimeconfig.dev.json
+c:\Users\Martin\Desktop\HandsOn\bin\Debug\netcoreapp2.0\HandsOn.dll
+c:\Users\Martin\Desktop\HandsOn\bin\Debug\netcoreapp2.0\HandsOn.pdb
+c:\Users\Martin\Desktop\HandsOn\obj\Debug\netcoreapp2.0\HandsOn.csproj.CoreCompileInputs.cache
+c:\Users\Martin\Desktop\HandsOn\obj\Debug\netcoreapp2.0\HandsOn.AssemblyInfoInputs.cache
+c:\Users\Martin\Desktop\HandsOn\obj\Debug\netcoreapp2.0\HandsOn.AssemblyInfo.cs
+c:\Users\Martin\Desktop\HandsOn\obj\Debug\netcoreapp2.0\HandsOn.dll
+c:\Users\Martin\Desktop\HandsOn\obj\Debug\netcoreapp2.0\HandsOn.pdb
+C:\Users\Martin\Desktop\HandsOn\obj\Debug\netcoreapp2.0\HandsOn.csprojResolveAssemblyReference.cache
